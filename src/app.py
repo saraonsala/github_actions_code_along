@@ -3,7 +3,7 @@ import streamlit as st
 
 api_key = st.secrets["api"]["API_KEY"]
 
-st.title("Weather information")
+st.title("✨ Sara Weather information ✨")
 
 st.markdown("You will find very nice weather info from here. Such a cool weather app")
 
